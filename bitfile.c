@@ -1,5 +1,5 @@
 /* bitfile.c
-Created by Stefano Cicero on 30/11/2016.
+
 */
 #include <stdlib.h>
 #include <unistd.h>
