@@ -1,5 +1,5 @@
 /* lz78.c
-Created by Stefano Cicero on 30/11/2016.
+
 */
 #include "lz78.h"
 #include <sys/stat.h>
