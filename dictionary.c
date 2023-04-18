@@ -1,6 +1,6 @@
-/* dictionary.c
-Created by Stefano Cicero on 30/11/2016.
-*/
+
+
+
 #include "dictionary.h"
 
 int collision_number = 0;
