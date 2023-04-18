@@ -1,5 +1,5 @@
 /* bitfile.h
-Created by Stefano Cicero on 30/11/2016.
+Created by Stefano Cicero on 30
 */
 
 #include <stdint.h>
