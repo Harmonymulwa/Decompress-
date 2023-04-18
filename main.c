@@ -1,6 +1,6 @@
 /* main.c
-Created by Stefano Cicero on 30/11/2016.
-Copyright © 2016 Stefano Cicero. All rights reserved.
+
+
 */
 
 #include "lz78.h"
